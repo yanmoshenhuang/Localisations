@@ -73,6 +73,9 @@
 "op_BEHAVIOUR" = "行为";
 "op_BEHAVIOUR_FOOTER" = "如果启动黑名单中的应用，seng的动作热区也将失效。但seng的多任务中心还会依旧有效（如果已经启动），在全屏程序中则会事先出现向上拖拽条（与系统默认的控制中心一样）。";
 "op_BLACKLIST" = "黑名单";
+"op_BOTTOM_THIRD" = "底部";
+"op_MIDDLE_THIRD" = "中间";
+"op_TOP_THIRD" = "顶部";
 
 /* people view page */
 "pv_INFO" = "信息";
